@@ -1,0 +1,44 @@
+/* line 2, D:/xampp/htdocs/instafeed/sass/rightnavigation.scss */
+.sidenav {
+  height: 100%;
+  width: 0;
+  position: fixed;
+  z-index: 9;
+  top: 0;
+  right: 0;
+  background-color: #111;
+  overflow-x: hidden;
+  transition: 0.5s;
+  padding-top: 60px;
+}
+
+/* line 17, D:/xampp/htdocs/instafeed/sass/rightnavigation.scss */
+#main {
+  transition: margin-left .5s;
+}
+
+/* line 25, D:/xampp/htdocs/instafeed/sass/rightnavigation.scss */
+.icon-close {
+  display: none;
+}
+
+/* line 31, D:/xampp/htdocs/instafeed/sass/rightnavigation.scss */
+.icon-menu {
+  cursor: pointer;
+}
+
+/* line 35, D:/xampp/htdocs/instafeed/sass/rightnavigation.scss */
+.mobile-menu {
+  background: rgba(0, 0, 0, 0.9);
+  right: -100%;
+  /* start off behind the scenes */
+  height: 100%;
+  position: fixed;
+  width: 100%;
+  z-index: 99;
+  top: 0;
+  display: block;
+  padding-top: 50px;
+}
+
+/*# sourceMappingURL=../css/rightnavigation.map */

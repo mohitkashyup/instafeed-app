@@ -1,0 +1,48 @@
+/*@import "genral";
+@import "style";
+@import "clearsans";*/
+/* line 35, D:/xampp/htdocs/instafeed/sass/variable.scss */
+.insta_icon {
+  display: inline-block;
+  font: normal normal normal 14px/1 FontAwesome;
+  font-size: inherit;
+  text-rendering: auto;
+  -webkit-font-smoothing: antialiased;
+}
+
+/* line 44, D:/xampp/htdocs/instafeed/sass/variable.scss */
+.insta_issues_icon:before {
+  content: "\f12e";
+}
+
+/* line 45, D:/xampp/htdocs/instafeed/sass/variable.scss */
+.insta_news_icon:before {
+  content: "\f1ea";
+}
+
+/* line 46, D:/xampp/htdocs/instafeed/sass/variable.scss */
+.insta_polls_icon:before {
+  content: "\f0a1";
+}
+
+/* line 47, D:/xampp/htdocs/instafeed/sass/variable.scss */
+.insta_blogs_icon:before {
+  content: "\f09e";
+}
+
+/* line 48, D:/xampp/htdocs/instafeed/sass/variable.scss */
+.insta_reporter_icon:before {
+  content: "\f0ee";
+}
+
+/* line 49, D:/xampp/htdocs/instafeed/sass/variable.scss */
+.insta_petition_icon:before {
+  content: "\f0a3";
+}
+
+/* line 50, D:/xampp/htdocs/instafeed/sass/variable.scss */
+.insta_category_icon:before {
+  content: "\f07c";
+}
+
+/*# sourceMappingURL=../css/variable.map */

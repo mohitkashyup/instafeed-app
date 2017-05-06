@@ -1,0 +1,12 @@
+{
+	"version": 3,
+	"file": "../sass/variable.css",
+	"sources": [
+		"../sass/variable.scss"
+	],
+	"sourcesContent": [
+		"/*@import \"genral\";\r\n@import \"style\";\r\n@import \"clearsans\";*/\r\n\r\n\r\n$instacolor : #147b82;\r\n$instacolor_dark : #0b666c;\r\n$instaborder : #d3d6db;\r\n\r\n$instapremiumfff : #f8f8f8;\r\n$instaheadingcolor : #4b4f56;\r\n$instaheadingbg : #f6f7f9;\r\n$headingcolor : #333333;\r\n$instabg : #e9ebee;\r\n$instaicon : #adb3bc;\r\n$instapremium : #717171;\r\n$insta_color_premium : #4a4a4a;\r\n\r\n$insta_sky_blue : #3389ff;\r\n$insta_dark_blue : #1c3467;\r\n$insta_green : #208927;\r\n$insta_yellow : #efc002;\r\n$insta_tags : #6a6a6a;\r\n$insta_light : #acacac;\r\n$insta_light_bg : #e7e7e8;\r\n$insta_red : #eb5858;\r\n$insta_error_red : #c4321a;\r\n$insta_hover : #ebebeb;\r\n\r\n$insta_poll_1 : #1ebeb4;\r\n$insta_poll_2 : #ee5744;\r\n$insta_poll_3 : #fdb94c;\r\n$insta_poll_4 : #8be2ea;\r\n\r\n.insta_icon\r\n{\r\n\tdisplay: inline-block;\r\n    font: normal normal normal 14px/1 FontAwesome;\r\n    font-size: inherit;\r\n    text-rendering: auto;\r\n    -webkit-font-smoothing: antialiased;\t\r\n}\r\n\r\n.insta_issues_icon:before{content: \"\\f12e\";}\r\n.insta_news_icon:before{content: \"\\f1ea\";}\r\n.insta_polls_icon:before{content: \"\\f0a1\";}\r\n.insta_blogs_icon:before{content: \"\\f09e\";}\r\n.insta_reporter_icon:before{content: \"\\f0ee\";}\r\n.insta_petition_icon:before{content: \"\\f0a3\";}\r\n.insta_category_icon:before{content: \"\\f07c\";}\r\n\r\n$golden : #f3dc4d;\r\n$silver : #e0e3e2;\r\n$bronze : #eeae64;\r\n\r\n\r\n"
+	],
+	"mappings": "AAAA;;sBAEsB;;AAgCtB,AAAA,WAAW,CACX;EACC,OAAO,EAAE,YAAa;EACnB,IAAI,EAAE,uCAAwC;EAC9C,SAAS,EAAE,OAAQ;EACnB,cAAc,EAAE,IAAK;EACrB,sBAAsB,EAAE,WAAY;CACvC;;;AAED,AAAkB,kBAAA,AAAA,OAAO,CAAA;EAAC,OAAO,EAAE,OAAQ;CAAG;;;AAC9C,AAAgB,gBAAA,AAAA,OAAO,CAAA;EAAC,OAAO,EAAE,OAAQ;CAAG;;;AAC5C,AAAiB,iBAAA,AAAA,OAAO,CAAA;EAAC,OAAO,EAAE,OAAQ;CAAG;;;AAC7C,AAAiB,iBAAA,AAAA,OAAO,CAAA;EAAC,OAAO,EAAE,OAAQ;CAAG;;;AAC7C,AAAoB,oBAAA,AAAA,OAAO,CAAA;EAAC,OAAO,EAAE,OAAQ;CAAG;;;AAChD,AAAoB,oBAAA,AAAA,OAAO,CAAA;EAAC,OAAO,EAAE,OAAQ;CAAG;;;AAChD,AAAoB,oBAAA,AAAA,OAAO,CAAA;EAAC,OAAO,EAAE,OAAQ;CAAG",
+	"names": []
+}
